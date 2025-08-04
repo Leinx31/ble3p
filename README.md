@@ -13,7 +13,9 @@ en la cual puedan crecer y compartir su camino en el aprendizaje en la interacci
 - **Objetivo General:** Crear una plataforma open source para el aprendizaje y manejo de micro controladores y LLM's
 - **Objetivos Específicos:**
 - **Objetivo 1:** Desarrollar un prototipo funcional con diferentes casos de uso en mente
-- **Objetivo 2:** Diseñar un sistema de carcasa multifuncional para distintos casos de uso 
+- **Objetivo 2:** Diseñar un sistema de carcasa multifuncional para distintos casos de uso
+- **Objetivo 3:** Implementar un sistema modular de conexión eléctrica que permita adaptarse a diferentes configuraciones de microcontroladores y sensores
+- **Objetivo 4:** Crear una biblioteca de código abierto con ejemplos prácticos y documentación técnica para acelerar el desarrollo de proyectos educativos 
 
 ## 4. Requisitos Iniciales
 - Lista breve de lo que el sistema debe lograr:  
@@ -23,7 +25,8 @@ en la cual puedan crecer y compartir su camino en el aprendizaje en la interacci
 
 ## 5. Diseño Preliminar del Sistema
 - **Arquitectura inicial (diagrama):**  
-  *(Incluir diagrama simple que muestre cómo se conectan los componentes: microcontrolador, sensores, LLM, etc.)*  
+
+  ![ble3p_Diagram](https://github.com/user-attachments/assets/f603d127-c809-46a6-87d1-5e2dd418b7b9)
 
 - **Componentes previstos:**  
   - Microcontrolador: IdeaBoard ESP-32
@@ -32,10 +35,10 @@ en la cual puedan crecer y compartir su camino en el aprendizaje en la interacci
   - Librerías y herramientas: [En desarrollo]  
 
 - **Bocetos o esquemas:**  
-  
+
+  ![WhatsApp_Image_2025-07-01_at_2 59 41_AM](https://github.com/user-attachments/assets/1e800d83-43d3-4ebd-9996-a3228b8fe124)
 
 ## 6. Plan de Trabajo 
 
 - **Riesgos identificados y mitigaciones:**  
-  - Riesgo 1: Mitigación  
-  - Riesgo 2: Mitigación  
+  - Acceso limitado a componentes: Uso de componentes generales con remplazos simples  
